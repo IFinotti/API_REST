@@ -34,7 +34,7 @@ A seguir estão os endpoints disponíveis nesta API:
 
 ### Autenticação
 
-- `POST /api/auth/login`: Permite fazer o login de um usuário e recebe o token JWT para autorização das próximas requisições.
+- `POST`: Permite fazer o login de um usuário e recebe o token JWT para autorização das próximas requisições.
 
 ### Estudantes
 
